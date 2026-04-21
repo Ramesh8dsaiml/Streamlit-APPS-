@@ -21,3 +21,13 @@ click here to open  code:  [Chai_test_poll.py] (https://github.com/Ramesh8dsaiml
 <img width="1920" height="1090" alt="{2158D8EC-1429-46A2-9654-1685EF0BC80A}" src="https://github.com/user-attachments/assets/bcc7a247-b6e8-4672-bb1b-e150028ecb05" />
 
 <img width="1920" height="1106" alt="{DFDFE610-C2C5-4F82-BE56-669C18A49D4C}" src="https://github.com/user-attachments/assets/636435ec-8957-4b30-a374-e3ab84b0fe65" />
+
+# 4 App chai sales dashboard:[chai_sales_dashboard.py] (https://github.com/Ramesh8dsaiml/Streamlit-APPS-/blob/main/chai_sales_dashboard.py)
+<img width="1920" height="1102" alt="{8680EA8A-6B23-4A77-B7B2-2334CB225283}" src="https://github.com/user-attachments/assets/c15bd5bf-d7f8-4755-b48e-7117b05cf219" />
+
+<img width="1920" height="1098" alt="{111BD0B3-2B3C-4FC4-82B7-51B05BE33350}" src="https://github.com/user-attachments/assets/bc90acd4-2b24-429a-bba9-469941eff933" />
+
+
+
+
+
