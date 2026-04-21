@@ -14,3 +14,10 @@ click here to open code :[Chai_makerapp.py] (https://github.com/Ramesh8dsaiml/St
 
 <img width="1913" height="1093" alt="{25989484-E190-4AA8-9ADC-2EEBAF2FF95C}" src="https://github.com/user-attachments/assets/6239663b-3e36-46f9-bd69-d60c304b1fc3" />
 
+# 3 app > Chai Test poll:
+click here to open  code 
+<img width="1911" height="997" alt="{92F4FDF2-CA82-423B-868B-FF6FCC4BF385}" src="https://github.com/user-attachments/assets/e1458bb6-4789-479a-b0b2-203d7f2ed8b0" />
+<img width="1920" height="1107" alt="{A7ED8E1F-2A37-4C35-A8DA-BFB0D19B700F}" src="https://github.com/user-attachments/assets/b7ceb3d3-4fdb-4be3-8933-aec1f900de20" />
+<img width="1920" height="1090" alt="{2158D8EC-1429-46A2-9654-1685EF0BC80A}" src="https://github.com/user-attachments/assets/bcc7a247-b6e8-4672-bb1b-e150028ecb05" />
+
+<img width="1920" height="1106" alt="{DFDFE610-C2C5-4F82-BE56-669C18A49D4C}" src="https://github.com/user-attachments/assets/636435ec-8957-4b30-a374-e3ab84b0fe65" />
